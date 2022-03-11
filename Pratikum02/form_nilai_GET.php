@@ -18,7 +18,7 @@
     <div class="container card mt-2">
         <div class="row bg-light pt-3">
             <div class="col-12">
-                <p>Sistem Penilaian</p>
+                <p>Sistem Penilaian Mahasiswa Nurul Fikri</p>
             </div>
         </div>
         <div class="row">
