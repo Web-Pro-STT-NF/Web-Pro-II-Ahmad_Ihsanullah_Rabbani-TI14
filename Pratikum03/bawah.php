@@ -21,7 +21,7 @@
             <div class="form-group row">
                 <label for="select" class="col-4 col-form-label">Select</label>
                 <div class="col-5">
-                    <select id="select" name="select" class="custom-select">
+                    <select id="select" name="matkul" class="custom-select">
                         <option value="ddp">Dasar - Dasar Program</option>
                         <option value="pemweb">Pemrograman Web II</option>
                         <option value="bd">Basis Data</option>
